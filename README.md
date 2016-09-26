@@ -1,4 +1,4 @@
 # public
 
-<a href="./PaymentsMappedFolium_v2.html"> Folium Interactive Map</a>
+<a href="./PaymentsMappedFolium_v2.html"  target="_blank"> Folium Interactive Map</a>
 
